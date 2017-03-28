@@ -1,6 +1,5 @@
 export default {
-    name: 'alert',
+    name: 'ad-position',
     initialize() {
-        alert('alert boxes are annoying!');
     }
 };
